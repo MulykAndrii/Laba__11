@@ -1,0 +1,15 @@
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\bin\Debug\net6.0\009__task.exe
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\bin\Debug\net6.0\009__task.deps.json
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\bin\Debug\net6.0\009__task.runtimeconfig.json
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\bin\Debug\net6.0\009__task.dll
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\bin\Debug\net6.0\009__task.pdb
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\obj\Debug\net6.0\009__task.csproj.AssemblyReference.cache
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\obj\Debug\net6.0\009__task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\obj\Debug\net6.0\009__task.AssemblyInfoInputs.cache
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\obj\Debug\net6.0\009__task.AssemblyInfo.cs
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\obj\Debug\net6.0\009__task.csproj.CoreCompileInputs.cache
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\obj\Debug\net6.0\009__task.dll
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\obj\Debug\net6.0\refint\009__task.dll
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\obj\Debug\net6.0\009__task.pdb
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\obj\Debug\net6.0\009__task.genruntimeconfig.cache
+D:\Education\University\Learning CSharp\Laba__11\Laba__11\009__task\obj\Debug\net6.0\ref\009__task.dll
